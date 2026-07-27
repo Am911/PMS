@@ -1,15 +1,13 @@
-# Angular
-PMS.Client/node_modules/
-PMS.Client/dist/
-
-# .NET
-PMS.Api/bin/
-PMS.Api/obj/
-
 # Visual Studio
 .vs/
-*.user
-*.suo
+
+# ASP.NET Core
+**/bin/
+**/obj/
+
+# Angular
+**/node_modules/
+**/dist/
 
 # Logs
 *.log
